@@ -1,0 +1,2 @@
+# OSS-EC_MAXIM_MAX6607IXK_MAX6608IUK_00000058
+A library of Maxim Integrated's MAX6607IXK, MAX6608IUK temperature sensor
